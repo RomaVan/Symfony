@@ -1,0 +1,4 @@
+services:
+#    test_news.example:
+#        class: Test\NewsBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
